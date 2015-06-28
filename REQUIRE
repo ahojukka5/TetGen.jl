@@ -1,3 +1,6 @@
 julia 0.4-
 BinDeps
 Cxx
+Logging
+FactCheck
+Lexicon
