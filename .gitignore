@@ -1,7 +1,6 @@
 *.jl.cov
 *.jl.mem
 ./julia
-deps/
 deps/builds
 deps/builds/libtet
 deps/usr
