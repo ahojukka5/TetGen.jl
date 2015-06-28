@@ -1,3 +1,6 @@
+# This file is a part of JuliaFEM/TetGen.
+# License is MIT: see https://github.com/JuliaFEM/TetGen.jl/blob/master/LICENSE.md
+
 using BinDeps
 
 @BinDeps.setup
