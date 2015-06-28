@@ -1,3 +1,12 @@
 *.jl.cov
 *.jl.mem
 ./julia
+deps/
+deps/builds
+deps/builds/libtet
+deps/usr
+deps/usr/lib
+deps/usr/include
+deps/downloads
+deps/src
+deps/src/tetgen1.4.3
